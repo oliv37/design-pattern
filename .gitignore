@@ -8,6 +8,11 @@
 *.iml
 .idea/
 
+#Eclipse
+.settings/
+.project
+.classpath
+
 # Log file
 *.log
 
